@@ -6,7 +6,7 @@
     </queries>
 
     <application
-        android:label="flutter_learning"
+        android:label="Movie App (Final project)"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
 
