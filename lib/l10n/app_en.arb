@@ -1,0 +1,19 @@
+{
+  "@@locale": "en",
+  "helloWorld": "Hello World!",
+  "helloVTI": "Hello VTI, how is it going?",
+  "profile_app_bar_title": "account information",
+  "fullname": "Fullname",
+  "dateOfBirth": "Date of birth",
+  "phoneNumber": "Phone Number",
+  "email": "Email",
+  "gender": "Gender",
+  "settings": "Settings",
+  "language": "Language",
+  "male": "Male",
+  "female": "Female",
+  "other": "Other",
+  "unknown": "Unknown",
+  "save": "Save",
+  "language": "Language"
+}

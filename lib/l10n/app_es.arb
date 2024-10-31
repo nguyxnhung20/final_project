@@ -1,0 +1,19 @@
+{
+  "@@locale": "es",
+  "helloWorld": "¡Hola Mundo!",
+  "helloVTI": "Hola VTI, Paju Dora?",
+  "profile_app_bar_title": "información de cuenta",
+  "fullname": "Nombre completo",
+  "dateOfBirth": "Fecha de nacimiento",
+  "phoneNumber": "Número de teléfono",
+  "email": "Correo electrónico",
+  "gender": "Género",
+  "settings": "Ajustes",
+  "language": "Idioma",
+  "male": "Masculino",
+  "female": "Femenino",
+  "other": "Otro",
+  "unknown": "Desconocido",
+  "save": "ahorrar",
+  "language": "Idioma"
+}

@@ -1,0 +1,19 @@
+{
+  "@@locale": "vi",
+  "helloWorld": "Xin chào Thế Giới",
+  "helloVTI": "Xin chào VTI, bạn khoẻ không",
+  "profile_app_bar_title": "Thông tin tài khoản",
+  "fullname": "Họ và tên",
+  "dateOfBirth": "Ngày sinh",
+  "phoneNumber": "Số điện thoại",
+  "email": "Email",
+  "gender": "Giới tính",
+  "settings": "Cài đặt",
+  "language": "Ngôn ngữ",
+  "male": "Nam",
+  "female": "Nữ",
+  "other": "Khác",
+  "unknown": "Không xác định",
+  "save": "Lưu",
+  "language": "Ngôn ngữ"
+}
